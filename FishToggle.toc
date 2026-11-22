@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: FishToggle
+## Notes: Minimap button that swaps your weapons for a fishing pole and back
+## Author: Per
+## Version: 1.0.0
+## IconTexture: Interface\Icons\Trade_Fishing
+## SavedVariables: FishToggleDB
+## SavedVariablesPerCharacter: FishToggleCharDB
+
+FishToggle.lua
